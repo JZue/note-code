@@ -6,6 +6,7 @@
     <modules>
         <module>multi-thread</module>
         <module>collection-code</module>
+        <module>redis-demo</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

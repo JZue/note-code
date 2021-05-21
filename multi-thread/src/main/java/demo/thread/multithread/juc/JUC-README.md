@@ -1,4 +1,4 @@
-```php
+```
 package concurrent.atomic
     since 1.5
         AtomicBoolean
