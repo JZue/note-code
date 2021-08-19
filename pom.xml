@@ -8,7 +8,8 @@
         <module>collection-code</module>
         <module>redis-demo</module>
         <module>leetcode</module>
-        <module>rabbitmq-cote</module>
+        <module>rabbitmq-note</module>
+        <module>other-demo</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
